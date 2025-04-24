@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://254sextonight.uno
+
+# Sitemaps
+Sitemap: https://254sextonight.uno/sitemap.xml
+Sitemap: https://254sextonight.uno/server-sitemap.xml
